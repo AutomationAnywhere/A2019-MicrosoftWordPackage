@@ -1,0 +1,29 @@
+{
+
+  "label" : "MSWordPackage",
+  "description" : "Use this package to create and modify MS Word documents",
+
+  "CreateDocument.label" : "Create MS Word Document",
+  "CreateDocument.description" : "Create a new MS Word Document",
+  "CreateDocument.filePath.label" : "Enter the folder path",
+  "CreateDocument.fileName.label" : "Enter the filename",
+  "CreateDocument.createParagraph.label" : "Write paragraph or select variable",
+
+  "AddParagraph.label" : "Add Paragraph",
+  "AddParagraph.description" : "Add Paragraph in Existing MS Word Document",
+  "AddParagraph.filePath.label" : "Select the Word document",
+  "AddParagraph.addParagraph.label" : "Please write paragraph or select variable",
+
+  "ReplaceText.label" : "Replace Text",
+  "ReplaceText.description" : "Replace Existing text in MS Word Document",
+  "ReplaceText.filePath.label" : "Select the Word document",
+  "ReplaceText.replaceText.label" : "Enter Text to be replaced",
+  "ReplaceText.newText.label" : "Enter new Text",
+
+  "Bookmark.label" : "Insert Text",
+  "Bookmark.description" : "Insert Text at Bookmark Position in MS Word",
+  "Bookmark.filePath.label" : "Select the Word document",
+  "Bookmark.bookmarkName.label" : "Enter Bookmark Name",
+  "Bookmark.insertText.label" : "Enter Text to be Inserted at Bookmark position"
+
+}
